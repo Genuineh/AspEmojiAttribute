@@ -1,0 +1,37 @@
+# Visual Studio artifacts
+TestResults/
+[Bb]in/
+[Oo]bj/
+applicationhost.config
+.vs/
+*.~*
+~*
+*~
+*.user
+*.suo
+*.pdb
+*.vsp
+*.csproj.VisualState.xml
+*.pubxml
+# Weyland
+# Vim
+# Resharper artifacts
+_ReSharper.*/
+# WebStorm artifacts
+.idea/
+#log
+[Ll]og/
+*.log
+# NuGet packages
+packages/
+# OS generated files
+Thumbs.db
+# project
+pub/
+# git
+*.orig
+*.licx
+!*.dll
+gitpull.bat
+Webapi/TestResults/TL.Webapi.TE.Tests.mdf
+Webapi/TestResults/TL.Webapi.TE.Tests_log.ldf
