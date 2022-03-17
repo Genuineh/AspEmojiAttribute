@@ -1,2 +1,2 @@
 # AspEmojiAttribute
-Attribute about emoji in Asp net core
+Attribute about emoji in Asp .net core
